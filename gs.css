@@ -1,4 +1,30 @@
 .speech {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24;
     color: black;
-    font-size: 12;
+}
+
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22;
+    color: black;
+    background-color: bisque;
+}
+.name {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26;
+    color: black;
+}
+.direction:hover{
+    background-color: azure;
+    color: aliceblue;
+}
+.JACQUES{
+    color:darkolivegreen;
+}
+.HENRIETTE{
+    color:coral;
+}
+.name{
+    color: darkslateblue;
 }
