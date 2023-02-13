@@ -10,18 +10,13 @@
     color: black;
     background-color: bisque;
 }
-.name {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 26;
-    color: black;
-}
+
 .direction:hover{
-    background-color: azure;
-    color: aliceblue;
+    background-color:burlywood;
+    color:rgb(46, 111, 233);
 }
 .JACQUES{
-    color:darkolivegreen;
+    color:navy;
 }
 .HENRIETTE{
     color:coral;}
-    
