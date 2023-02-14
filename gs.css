@@ -37,7 +37,7 @@ td {
 table {
     padding: 5px;
     margin: 20px;
-    width:60%;
+    width: 60%;
 }
 
 th {
@@ -56,4 +56,18 @@ td {
 
 tr:nth-child(even) {
     background-color: beige;
+}
+
+.JACQUES:hover {
+    background:beige;
+    color:rgb(100, 100, 211);
+    text-shadow: 4px 4px #baa9a9;
+    border:cornflowerblue;
+}
+
+.HENRIETTE:hover {
+    background: powderblue;
+    color:darkmagenta;
+    text-shadow: 4px 4px #9c9898;
+    border:deeppink;
 }
