@@ -11,13 +11,49 @@
     background-color: bisque;
 }
 
-.direction:hover{
-    background-color:burlywood;
-    color:rgb(46, 111, 233);
+.direction:hover {
+    background-color: burlywood;
+    color: rgb(46, 111, 233);
 }
-.JACQUES{
+
+.JACQUES {
     color: forestgreen;
 }
-.HENRIETTE{
-    color:coral;}
 
+.HENRIETTE {
+    color: coral;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    text-align: center;
+    border-radius: 1px;
+    width: 10%;
+
+}
+
+table {
+    padding: 5px;
+    margin: 20px;
+    width: 40%;
+}
+
+th {
+    color: palevioletred;
+    font-weight: bold;
+    height: 70px;
+
+}
+
+td {
+    color: darkorchid;
+    border: 1px solid;
+    height: 30px;
+
+}
+
+tr:nth-child(even) {
+    background-color: beige;
+}
